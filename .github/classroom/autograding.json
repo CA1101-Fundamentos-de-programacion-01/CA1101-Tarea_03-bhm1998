@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Pruebas Ejercicio 01",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ejercicio_01_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Pruebas Ejercicio 02",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ejercicio_02_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Pruebas Ejercicio 03",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ejercicio_03_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    },
+    {
+      "name": "Pruebas Ejercicio 04",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest ejercicio_04_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 25
+    }
+  ]
+}
